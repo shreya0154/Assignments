@@ -1,0 +1,37 @@
+.booking-container {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  .booking-poster {
+    width: 100%;
+    max-height: 300px;
+    object-fit: contain;
+    margin-bottom: 15px;
+  }
+  
+  .booking-form input {
+    display: block;
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .booking-form button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 16px;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .booking-form button:hover {
+    background-color: #218838;
+  }
+  
